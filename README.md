@@ -1,6 +1,6 @@
 # Diode
 
-. Sistemi Güncelle
+### 🔹 1. Genel sistem güncellemelerini yapalım
 ```
 sudo apt update && sudo apt upgrade -y
 ```
