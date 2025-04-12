@@ -54,9 +54,23 @@ https://diode.io/joinzone/#close
 
 ![image](https://github.com/user-attachments/assets/625589b0-4a88-42de-a6dc-473c5ed415aa)
 
-- Kurduk açtık isim yazdık kaydolduk sonra aşağıdaki şekilde yeni zone bağlanıyoruz. Burada sync uzun sürebilir dismiss diyip atlayalım.
+
+
+- Kurduk açtık isim yazdık kaydolduk sonra aşağıdaki şekilde yeni zone bağlanmak için alttaki kodu yazıp join diyoruz. Burada sync uzun sürebilir dismiss diyip atlayalım.
+
+p0xUHtufRS_tMNd9XRvnxbMmXPtOyRbPrQLnLN4j3VNsDhwSrpRYpwbnhMZ2
+
 
 ![joincode-entry-example](https://github.com/user-attachments/assets/0a61fb5e-af27-4f0b-9ddc-001c33b455b2)
+
+
+
+Aşağıdaki ref kodunu resimde görünen registrar kanalına atıyoruz
+
+GJTCTZTFRAPNVNJXSXGE
+
+
+![photo_2025-04-12_20-31-08](https://github.com/user-attachments/assets/91d23ec1-f4ef-4a85-90fa-80cbb26b2c5b)
 
 
 #### Platforma bağlanalım cüzdan bağlayalım
