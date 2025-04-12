@@ -100,14 +100,21 @@ register node NODEID NODEADI
 ![image](https://github.com/user-attachments/assets/1d1b8092-7e8f-41ff-bcc8-c77895c234e7)
 
 
-### 🔹 15. Bazı yararlı kodlar.
+### 🔹 15. Bazı yararlı sunucu kodları.
 
 ```snap install diode-node``` - yüklemek için
+
 ```diode-node.info``` - kurulu nodun bilgileri için
+
 ```snap restart diode-node``` - yeniden başlatmak için
+
 ```sudo snap logs diode-node``` -f - logları görmek için
 
+### 🔹 16. Bazı yararlı Diode Collab registar kanalı komutları.
 
+```stats``` - genel bilgilerinizi görmek için
+
+```list nodes``` - kayıtlı tüm nodelarınızı görmek için.
 
 
 
