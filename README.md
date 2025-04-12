@@ -88,7 +88,7 @@ set wallet EVMCUZDANADRESINIZ
 ```
 register node NODEID NODEADI
 ```
-![image](https://github.com/user-attachments/assets/8b059237-a054-40d0-be7d-80514d1c278a)
+![image](https://github.com/user-attachments/assets/22dd0c02-cfec-4188-b5ab-7133938685c7)
 
 
 ![image](https://github.com/user-attachments/assets/0075b3a1-f4ea-4f93-ad02-740094562a80)
