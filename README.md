@@ -38,9 +38,6 @@ diode publish mysite
 ```
 Bu işlemden sonra sana özel bir *.diode.link URL’si oluşur. Web tarayıcında bu adresi ziyaret ederek içeriğini görebilirsin.
 
-> Not: diode komutu için ayrıca Diode istemcisi kurman gerekebilir. Bunu da ister misin?
-
-
 
 ### 🔹 6. (İsteğe Bağlı) Düğüm Sürekli Çalışsın Diye Logları İzle
 ```
@@ -49,7 +46,7 @@ journalctl -u snap.diode-node.daemon -f
 Bu komutla arka plandaki düğüm loglarını takip edebilirsin.
 
 
-#### uygulama indirme
+#### Diode 
 
 https://diode.io/joinzone/#close
 
@@ -57,15 +54,14 @@ https://diode.io/joinzone/#close
 
 ![image](https://github.com/user-attachments/assets/625589b0-4a88-42de-a6dc-473c5ed415aa)
 
-- kurduk açtık isim yaz kaydol de oldun mu anasayfada linke tıklayarak ref gir
+- Kurduk açtık isim yazdık kaydolduk sonra aşağıdaki şekilde yeni zone bağlanıyoruz. Burada sync uzun sürebilir dismiss diyip atlayalım.
 
-![image](https://github.com/user-attachments/assets/8b8e23fe-d56e-477b-9f9b-77c0ca32dda8)
+![joincode-entry-example](https://github.com/user-attachments/assets/0a61fb5e-af27-4f0b-9ddc-001c33b455b2)
 
 
+#### Platforma bağlanalım cüzdan bağlayalım
 
-#### paltforma bağlanalım cüzdan bağlayalım
-
-- https://diodenetwork.io/app/  adresine gidelim ve sıfır bir evm cüzdan olusturalım bağlıyalım.
+- https://diodenetwork.io/app/  adresine gidelim ve sıfır bir evm cüzdan olusturalım bağlıyalım. Bundan sonraki işlemlere masaüstünden devam.
 
 
 
