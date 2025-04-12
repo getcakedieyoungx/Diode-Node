@@ -102,10 +102,10 @@ register node NODEID NODEADI
 
 ### 🔹 15. Bazı yararlı kodlar.
 
-snap install diode-node - yüklemek için
-diode-node.info - kurulu nodun bilgileri için
-snap restart diode-node - yeniden başlatmak için
-sudo snap logs diode-node -f - logları görmek için
+```snap install diode-node``` - yüklemek için
+```diode-node.info``` - kurulu nodun bilgileri için
+```snap restart diode-node``` - yeniden başlatmak için
+```sudo snap logs diode-node``` -f - logları görmek için
 
 
 
