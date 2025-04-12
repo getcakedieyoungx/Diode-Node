@@ -45,37 +45,55 @@ journalctl -u snap.diode-node.daemon -f
 ```
 Bu komutla arka plandaki düğüm loglarını takip edebilirsin.
 
+### 🔹 7.Platforma bağlanalım cüzdan bağlayalım
 
-#### Diode 
+- https://diodenetwork.io/app/  adresine gidelim ve sıfır bir evm cüzdan olusturalım bağlıyalım. Bundan sonraki işlemlere masaüstünden devam.
+
+### 🔹 8. Diode Collab masaüstü uygulamasını indirelim.
 
 https://diode.io/joinzone/#close
 
-- Sağ yukardan get app diyelim. uygun olanı indir kur ( kendi pcmiz yerine baska bir yere indirebilrisek daha iyi olur sınucta test ben uyarayımda)
+- Sağ yukardan get app diyelim. uygun olanı indir kur ( kendi pcmiz yerine baska bir yere indirebilirisek daha iyi olur sonucta test ben uyarayım da)
 
 ![image](https://github.com/user-attachments/assets/625589b0-4a88-42de-a6dc-473c5ed415aa)
 
 
 
-- Kurduk açtık isim yazdık kaydolduk sonra aşağıdaki şekilde yeni zone bağlanmak için alttaki kodu yazıp join diyoruz. Burada sync uzun sürebilir dismiss diyip atlayalım.
-
+### 🔹 9. Kurduk açtık isim yazdık kaydolduk sonra aşağıdaki şekilde yeni zone bağlanmak için alttaki kodu yazıp join diyoruz. Burada sync uzun sürebilir dismiss diyip atlayalım.
+```
 p0xUHtufRS_tMNd9XRvnxbMmXPtOyRbPrQLnLN4j3VNsDhwSrpRYpwbnhMZ2
-
+```
 
 ![joincode-entry-example](https://github.com/user-attachments/assets/0a61fb5e-af27-4f0b-9ddc-001c33b455b2)
 
 
 
-Aşağıdaki ref kodunu resimde görünen registrar kanalına atıyoruz
-
+### 🔹 10. Aşağıdaki katılım kodunu resimde görünen registrar kanalına atıyoruz. Bu kodu girdikten sonra kabul edip etmediğinizi soracak I Accept yazarak devam edebilirsiniz. Kabul ettikten sonra size özel bir katılım kodu verecek siz de o kodla başkalarını davet edebileceksiniz.
+```
 GJTCTZTFRAPNVNJXSXGE
-
+```
 
 ![photo_2025-04-12_20-31-08](https://github.com/user-attachments/assets/91d23ec1-f4ef-4a85-90fa-80cbb26b2c5b)
 
+### 🔹 11. Platforma bağladığımız cüzdan adresimizi alalım ve aşağıdaki şekilde resimdeki gibi bota yazarak cüzdanımızı kayıt edelim. 
+```
+set wallet EVMCUZDANADRESINIZ
+```
+![image](https://github.com/user-attachments/assets/8b5d8329-a5ee-4693-8565-bc472552e34b)
 
-#### Platforma bağlanalım cüzdan bağlayalım
 
-- https://diodenetwork.io/app/  adresine gidelim ve sıfır bir evm cüzdan olusturalım bağlıyalım. Bundan sonraki işlemlere masaüstünden devam.
+### 🔹 13. Çalıştırdığımız nodumuzu aşağıdaki örnekte görüldüğü gibi kayıt edelim. NODEID yazan kısım diode-node.info komutundan sonra sunucudaki çıktıda var. Aşağıya ekledim. NODEADI nasıl adlandırmak isterseniz o şekilde.
+```
+register node NODEID NODEADI
+```
+![image](https://github.com/user-attachments/assets/8b059237-a054-40d0-be7d-80514d1c278a)
+
+
+![image](https://github.com/user-attachments/assets/58626649-8baa-4e5c-b1e8-0c1cec86a1d0)
+
+
+
+
 
 
 
