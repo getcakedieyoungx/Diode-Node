@@ -73,7 +73,8 @@ p0xUHtufRS_tMNd9XRvnxbMmXPtOyRbPrQLnLN4j3VNsDhwSrpRYpwbnhMZ2
 GJTCTZTFRAPNVNJXSXGE
 ```
 
-![photo_2025-04-12_20-31-08](https://github.com/user-attachments/assets/91d23ec1-f4ef-4a85-90fa-80cbb26b2c5b)
+![image](https://github.com/user-attachments/assets/52afa1d9-fc94-423b-89dd-64cab864e279)
+
 
 ### 🔹 11. Platforma bağladığımız cüzdan adresimizi alalım ve aşağıdaki şekilde resimdeki gibi bota yazarak cüzdanımızı kayıt edelim. 
 ```
