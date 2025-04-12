@@ -84,7 +84,7 @@ set wallet EVMCUZDANADRESINIZ
 ![image](https://github.com/user-attachments/assets/8b5d8329-a5ee-4693-8565-bc472552e34b)
 
 
-### 🔹 13. Çalıştırdığımız nodumuzu aşağıdaki örnekte görüldüğü gibi kayıt edelim. NODEID yazan kısım diode-node.info komutundan sonra sunucudaki çıktıda var. Aşağıya ekledim. NODEADI nasıl adlandırmak isterseniz o şekilde.
+### 🔹 13. Çalıştırdığımız nodumuzu aşağıdaki örnekte görüldüğü gibi kayıt edelim. NODEID yazan kısım diode-node.info komutundan sonra sunucudaki çıktıda var. Aşağıya ekledim. NODEADI nasıl adlandırmak isterseniz o şekilde. İstediğiniz kadar node ekleyebilirisiniz aynı şekilde herhangi bir sınır yok.
 ```
 register node NODEID NODEADI
 ```
