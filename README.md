@@ -108,7 +108,7 @@ register node NODEID NODEADI
 
 ```snap restart diode-node``` - yeniden başlatmak için
 
-```sudo snap logs diode-node``` -f - logları görmek için
+```sudo snap logs diode-node -f``` - logları görmek için
 
 ### 🔹 16. Bazı yararlı Diode Collab registar kanalı komutları.
 
