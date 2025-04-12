@@ -93,6 +93,20 @@ register node NODEID NODEADI
 
 ![image](https://github.com/user-attachments/assets/0075b3a1-f4ea-4f93-ad02-740094562a80)
 
+### 🔹 14. Aşağıdaki iki bağlantı da sorunsuzdur. İlki gibi de görünebilir. Bundan sonrasını https://diodenetwork.io/app/ sitesinden de takip edebilirsiniz.
+
+![image](https://github.com/user-attachments/assets/744efc57-1ed9-44c9-aedf-a7213da7557d)
+
+![image](https://github.com/user-attachments/assets/1d1b8092-7e8f-41ff-bcc8-c77895c234e7)
+
+
+### 🔹 15. Bazı yararlı kodlar.
+
+snap install diode-node - yüklemek için
+diode-node.info - kurulu nodun bilgileri için
+snap restart diode-node - yeniden başlatmak için
+sudo snap logs diode-node -f - logları görmek için
+
 
 
 
