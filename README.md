@@ -26,6 +26,7 @@ diode-node.info
 ```
 Bu komut, düğümünüzün kimliği, bağlı olduğu ağ, çalışma durumu gibi bilgileri gösterir.
 
+![image](https://github.com/user-attachments/assets/5880003f-19c9-42fc-88ce-493327a5e75a)
 
 
 ### 🔹 5. Diode İstemcisiyle Örnek Bir Web Yayını (İsteğe Bağlı)
