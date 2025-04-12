@@ -91,7 +91,8 @@ register node NODEID NODEADI
 ![image](https://github.com/user-attachments/assets/8b059237-a054-40d0-be7d-80514d1c278a)
 
 
-![image](https://github.com/user-attachments/assets/58626649-8baa-4e5c-b1e8-0c1cec86a1d0)
+![image](https://github.com/user-attachments/assets/0075b3a1-f4ea-4f93-ad02-740094562a80)
+
 
 
 
