@@ -12,14 +12,14 @@ sudo apt install snapd -y
 ```
 
 
-### 🔹 3. Diode Node Paketini Kur
+### 🔹 3. Install Diode Node Package
 ```
 sudo snap install diode-node
 ```
 After installation, diode-node starts running in the background.
 
 
-### 🔹 4. Install Diode Node Package
+### 🔹 4. Check Node Info
 ```
 diode-node.info
 ```
